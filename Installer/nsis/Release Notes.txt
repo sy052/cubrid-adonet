@@ -1,9 +1,16 @@
 Release Notes
 ================================================================================
+<<<<<<< HEAD
 August 2020 - Update for release 10.2.0
 
 CUBRID ADO.NET Data Provider
 Version: 10.2.0.0002
+=======
+December 2019 - Update for release 10.2.0
+
+CUBRID ADO.NET Data Provider
+Version: 10.2.0.0001
+>>>>>>> 132c72dd399fb3fbfa602f2a23336df277e41c5e
 CUBRID engine compatible: 10.2.0
 Online Wiki: http://www.cubrid.org/wiki_apis/entry/cubrid-ado-net-driver
 ================================================================================

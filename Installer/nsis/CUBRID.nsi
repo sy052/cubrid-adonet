@@ -41,7 +41,11 @@ SetCompressor /solid lzma
 Name "CUBRID ADO.NET Data Provider 10.2.0"
 
 ; The file to write
+<<<<<<< HEAD
 OutFile "CUBRID ADO.NET Data Provider 10.2.0.0002.exe"
+=======
+OutFile "CUBRID ADO.NET Data Provider 10.2.0.0001.exe"
+>>>>>>> 132c72dd399fb3fbfa602f2a23336df277e41c5e
 
 ;required on Windows Vista and Windows 7
 RequestExecutionLevel user
